@@ -5,11 +5,9 @@
 ## About Me
 
 - 🔭 I’m currently working on [NusantaraProject-ROM](https://github.com/NusantaraProject-ROM) and [AvariceProject](https://github.com/Avarice12)
-- 🌱 I’m currently learning C/C++ and JAVA
 - 🎓 I'm currently student at Universitas Dian Nuswantoro
 - 👯 I’m not looking to collaborate anything
 - 💬 Ask me about Girlfriend (?)
-- 📫 How to reach me: [Telegram](https://t.me/Rafiester) | [Mail](rafi.haqqi@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/Suzurui) | [Mail](rafi.haqqi@gmail.com)
 - 😄 Pronouns: He/Him
-- 🎂 I'm 20 y.o
 - ⚡ Fun fact: I'm Twice Stan Especially to Jeongyeon
